@@ -1,0 +1,1 @@
+python experiment_planning/plan_and_preprocess_task.py -t Task00_KITS19  -pl 2 -pf 2
